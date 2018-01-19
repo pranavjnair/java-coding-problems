@@ -5,6 +5,6 @@ public class ProgressiveStudentDriver {
         ProgressiveStudent s1 = new ProgressiveStudent();
         double[] gpas = {2.0,3.5,4.0};
         boolean status = s1.scoresIncreasing(gpas);
-        System.out.println("Status: "+ status + " changed.");
+        System.out.println("Status: "+ status + " changed. My name is Pranav.");
     }
 }
