@@ -1,4 +1,4 @@
-package com.nair.codingproblems.com.nair.wordcount;
+package com.nair.codingproblems.wordcount;
 
 public class WordCountDriver {
     public static void main(String args[]) {

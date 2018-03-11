@@ -1,4 +1,4 @@
-package com.nair.codingproblems.com.nair.RouteCipher;
+package com.nair.codingproblems.RouteCipher;
 
 public class RouteCipherDriver {
     public static void main(String[] args) {

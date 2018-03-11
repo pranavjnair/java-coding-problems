@@ -1,4 +1,4 @@
-package com.nair.codingproblems.com.nair.wordcount;
+package com.nair.codingproblems.wordcount;
 
 import java.io.*;
 import java.util.ArrayList;
